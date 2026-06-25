@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+
+# Snapshot files generated at runtime
+*.kvs
+*.kvs.tmp
+
+# Editor and OS noise
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
